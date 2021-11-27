@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Phantira Mananta (Aom)
+## นางสาว ภัณฑิรา มานันทะ
+<img src="https://img.in.th/images/224aea04a3e765e14a2fbbf7a7a65899.jpg" width="200" height="250">
 
-You can use the [editor on GitHub](https://github.com/Aommmmmmmmm/Phantira-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Aommmmmmmmm/Phantira-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### CONTACT INFO
+- อีเมลล์ : aaomaomm02@gmail.com
+- Line ID : Aommy1303
+- Instagram : aomxxqxx
+- เบอร์โทรศัพท์ : 095-8105413
+- ที่อยู่ : 163/106 ม.6 ต.บางกรวย อ.บางกรวย จ.นนทบุรี รหัสไปรษณีย์ 11130 
+### EDUCATION
+- มัธยมศึกษาตอนต้น : โรงเรียนสตรีนนทบุรี
+- มัธยมศึกษาตอนปลาย : โรงเรียนสตรีนนทบุรี
+- ปริญญาตรี : มหาวิทยาลัยธรรมศาสตร์
+###  STRENGTH
+- สามารถทำงานร่วมกับทุกคน
+- กะตือรือร้นในการทำงานและจะรับผิดชอบงานจนเสร็จ
+### WEAKNESS
+- วิตกกังวลกลัวงานออกมาไม่ดี
+- คิดเยอะจนเกินไป
+### SKILLS
+#### English skill
+- Reading 7/10
+- Litsening 8/10
+- Speaking 7/10
+#### Computer skill
+- Microsoft Word
+- Microsoft Excel
+- Microsoft Powerpoint
+### ACTIVITYS
+- ได้เข้าร่วมกิจกรรมโครงงานนักเรียน ครั้งที่ 9 โครงการห้องเรียนพิเศษวิทยาศาสตร์คณิตศาสตร์ เทคโนโลยีและสิ่งแวดล้อม เครือข่ายภาคกลางตอน
+<img src="https://img.in.th/images/a2db2636c584520deb3036769a0a8345.jpg" width="300" height="250">
+- ได้เข้าร่วมโครงการอบรมเสริมทักษะทางฟิสิกส์สำหรับนักเรียนมัธยมตอนปลาย
+<img src="https://img.in.th/images/28feb9cba08195f82bcc24807b424225.jpg" width="300" height="250">
